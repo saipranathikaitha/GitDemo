@@ -13,7 +13,8 @@ public class sel1 {
             System.out.println("hello");
             
             System.out.println("hi");
-            
+            System.out.println("hij");
+            System.out.println("hjhgi");
 	}
 
 }
